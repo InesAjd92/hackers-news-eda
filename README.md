@@ -1,4 +1,4 @@
-# 🔍 Hacker News — Exploratory Data Analysis
+# 🔍 Hacker News - Exploratory Data Analysis (EDA)
 
 <div align="center">
 
