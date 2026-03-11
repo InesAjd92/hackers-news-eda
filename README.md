@@ -15,24 +15,24 @@
 
 ---
 
-## 📋 Table of Contents · Sommaire
+## Table of Contents - Sommaire
 
-- [🇬🇧 English](#-english)
-- [🇫🇷 Français](#-français)
+- [English](#-english)
+- [Français](#-français)
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Context
 
 [Hacker News](https://news.ycombinator.com/) is a social news platform run by Y Combinator, focused on technology and entrepreneurship. This dataset covers stories posted between 2015 and 2016 (~20,000 posts), including author, timestamp, points, and number of comments.
 
-📦 **Dataset source:** [Hacker News on Kaggle](https://www.kaggle.com/datasets/hacker-news/hacker-news)
+**Dataset source:** [Hacker News on Kaggle](https://www.kaggle.com/datasets/hacker-news/hacker-news)
 
 ---
 
-### ❓ Research Questions
+### Research Questions
 
 This EDA investigates what drives engagement on Hacker News:
 
@@ -44,7 +44,7 @@ This EDA investigates what drives engagement on Hacker News:
 
 ---
 
-### 💡 Key Findings
+### Key Findings
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -61,7 +61,7 @@ This EDA investigates what drives engagement on Hacker News:
 
 ---
 
-### 🗂️ Project Structure
+### Project Structure
 
 ```
 hacker-news-eda/
@@ -73,7 +73,7 @@ hacker-news-eda/
 
 ---
 
-### 🚀 How to Run
+### How to Run
 
 **1. Clone the repository**
 ```bash
@@ -97,7 +97,7 @@ jupyter notebook hackers_news_exploration_v2.ipynb
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Tool | Usage |
 |------|-------|
@@ -110,17 +110,17 @@ jupyter notebook hackers_news_exploration_v2.ipynb
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 ### Contexte
 
 [Hacker News](https://news.ycombinator.com/) est une plateforme de news sociale gérée par Y Combinator, axée sur la tech et l'entrepreneuriat. Ce dataset couvre les posts publiés entre 2015 et 2016 (~20 000 posts), avec auteur, horodatage, points et nombre de commentaires.
 
-📦 **Source du dataset :** [Hacker News sur Kaggle](https://www.kaggle.com/datasets/hacker-news/hacker-news)
+**Source du dataset :** [Hacker News sur Kaggle](https://www.kaggle.com/datasets/hacker-news/hacker-news)
 
 ---
 
-### ❓ Questions de recherche
+### Questions de recherche
 
 Cette EDA explore les facteurs d'engagement sur Hacker News :
 
@@ -132,7 +132,7 @@ Cette EDA explore les facteurs d'engagement sur Hacker News :
 
 ---
 
-### 💡 Résultats clés
+### Résultats clés
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -150,7 +150,7 @@ Cette EDA explore les facteurs d'engagement sur Hacker News :
 
 ---
 
-### 🗂️ Structure du projet
+### Structure du projet
 
 ```
 hacker-news-eda/
@@ -162,7 +162,7 @@ hacker-news-eda/
 
 ---
 
-### 🚀 Comment lancer le projet
+### Comment lancer le projet
 
 **1. Cloner le repo**
 ```bash
