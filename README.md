@@ -1,4 +1,4 @@
-# 🔍 Hacker News - Exploratory Data Analysis (EDA)
+# Hacker News - Exploratory Data Analysis (EDA)
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Table of Contents - Sommaire
+## Table of contents - Sommaire
 
 - [English](#-english)
 - [Français](#-français)
@@ -32,7 +32,7 @@
 
 ---
 
-### Research Questions
+### Research questions
 
 This EDA investigates what drives engagement on Hacker News:
 
@@ -44,11 +44,11 @@ This EDA investigates what drives engagement on Hacker News:
 
 ---
 
-### Key Findings
+### Key findings
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  📊 INSIGHTS SUMMARY                                            │
+│  INSIGHTS SUMMARY                                               │
 ├─────────────────────────────────────────────────────────────────┤
 │  • Power law distribution — most posts get < 10 points         │
 │  • Strong correlation (r ≈ 0.78) between points & comments     │
@@ -61,7 +61,7 @@ This EDA investigates what drives engagement on Hacker News:
 
 ---
 
-### Project Structure
+### Project structure
 
 ```
 hacker-news-eda/
@@ -73,7 +73,7 @@ hacker-news-eda/
 
 ---
 
-### How to Run
+### How to run
 
 **1. Clone the repository**
 ```bash
@@ -136,7 +136,7 @@ Cette EDA explore les facteurs d'engagement sur Hacker News :
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  📊 SYNTHÈSE DES INSIGHTS                                       │
+│  SYNTHÈSE DES INSIGHTS                                          │
 ├─────────────────────────────────────────────────────────────────┤
 │  • Distribution en loi de puissance — la plupart des posts     │
 │    reçoivent moins de 10 points                                 │
@@ -186,7 +186,7 @@ jupyter notebook hackers_news_exploration_v2.ipynb
 
 ---
 
-### 🛠️ Stack technique
+### Stack technique
 
 | Outil | Usage |
 |-------|-------|
@@ -203,9 +203,9 @@ jupyter notebook hackers_news_exploration_v2.ipynb
 
 ---
 
-*Projet réalisé par [Ines Amdjahed](https://github.com/InesAjd92) · Data Analyst Junior · Paris 🇫🇷*
+*Projet réalisé par [Ines Amdjahed](https://github.com/InesAjd92) · Data Analyst*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesamdjahed.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00f5ff)](https://inesajd92.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://linkedin.com/in/ines-amdjahed)
 
 </div>
